@@ -10,7 +10,7 @@ Solutions and codes for the programming assignment "Computer Networks - Top-Down
 
 #### Assignment 1: Web Server (Page120)
 
-* Official document: [Socket1_WebServer.pdf](SocketProgrammingAssignment/Job 1-Web Server/Socket1_WebServer.pdf)
+* Official document: [Socket1_WebServer.pdf](SocketProgrammingAssignment/Job1-Web Server/Socket1_WebServer.pdf)
 * Translation: [Job 1-Web Server-Translation.md](SocketProgrammingAssignment/Job 1-Web Server/Job 1-Web Server-Translation.md)
 * Answer: [Assignment 1-Web Server-Answer.md](SocketProgrammingAssignment/Assignment 1-Web Server/Assignment 1-Web Server-Answer.md)
 
